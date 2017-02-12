@@ -1,0 +1,9 @@
+{
+    "extends": "standard",
+    "plugins": [
+        "standard",
+        "promise"
+    ],
+    "no-undef": 1,
+    "no-unused-vars": 1
+}
